@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kawin Rattanapun</h1>
 <h3 align="center">A student from Thailand</h3>
 
-- 🌱 I’m currently learning **Nothing :(**
+- 🌱 I’m currently learning **Too many things 🤕**
 
 - 📫 How to reach me **athens_club@hotmail.com**
 
