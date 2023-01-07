@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kawin Rattanapun</h1>
 <h3 align="center">A student from Thailand</h3>
 
-- 🌱 I’m currently learning **Too many things 🤕**
+- 🌱 I’m currently studying at **Chulalongkorn University**
 
 - 📫 How to reach me **athens_club@hotmail.com**
 
@@ -17,3 +17,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athensclub&layout=compact&exclude_repo=Thai-Word-Cutter" alt="athensclub" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athensclub&show_icons=true&locale=en" alt="athensclub" /></p>
+<p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=athensclub" alt="athensclub" /></p>
