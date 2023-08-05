@@ -90,9 +90,9 @@
     <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
   </a> 
-  
+
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.79614a5f61617ba49a0891494521226b.svg" alt="tailwindcss" width="40" height="40"/> 
+    <img src="https://github.com/athensclub/athensclub/assets/43963760/1a258251-2a69-4107-8d91-bcc14c087fad" alt="tailwindcss" height="40"/> 
   </a> 
   
   
