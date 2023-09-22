@@ -95,9 +95,16 @@
     <img src="https://github.com/athensclub/athensclub/assets/43963760/1a258251-2a69-4107-8d91-bcc14c087fad" alt="tailwindcss" height="40"/> 
   </a> 
   
-  
   <a href="https://svelte.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/747px-Svelte_Logo.svg.png?20191219133350" alt="svelte" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/306500/openai.svg" alt="openai" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Colab" height="40"/> 
   </a> 
 </p>
 
