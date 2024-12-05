@@ -9,6 +9,9 @@
 <p align="left">
 <a href="https://www.facebook.com/kawin.rattanapun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="กวิน รัตนพันธ์" height="30" width="40" /></a>
 <a href="https://instagram.com/kawin_rattanapun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kawin_rattanapun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kawin-r/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/45fa5af2-9719-46a7-a4e6-47ad3a6b1d8c" alt="kawin_rattanapun" width="40" />
+</a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
