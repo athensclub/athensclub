@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying at **Chulalongkorn University**
 
-- 📫 How to reach me **kawin.rattanapun@outlook.com**
+- 📫 How to reach me **kawin.rattanapun@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
